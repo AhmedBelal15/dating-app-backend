@@ -1,6 +1,6 @@
 using System;
 
-namespace dating_app_backend
+namespace API
 {
     public class WeatherForecast
     {
